@@ -1,3 +1,3 @@
-# code for installing library
+# requirements for task
 
 pip install pyshorteners
