@@ -1,4 +1,4 @@
-# requirement for 2nd task
+# requirement for task
 
-pip install pygame & 
+pip install pygame , 
 pip install tk
